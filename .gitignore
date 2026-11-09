@@ -1,0 +1,45 @@
+# --- Fichiers médias lourds (vidéos / audio) ---
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
+# --- Dossiers de données brutes et téléchargements ---
+data/
+outputs/downloads/
+outputs/*/sections_video/*.mp4
+
+# --- Modèles / poids (si un jour stockés localement) ---
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Éditeur / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Secrets ---
+.env
+*.key
+client_secret*.json
+token*.json

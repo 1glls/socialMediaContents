@@ -1,0 +1,5 @@
+# Qwen2.5 7B avec un contexte élargi : une section de 20 000 caractères
+# (~6 000 tokens) + le prompt + la réponse dépassent le contexte par défaut d'Ollama (4k).
+FROM qwen2.5:7b-instruct
+PARAMETER num_ctx 12288
+PARAMETER temperature 0.2

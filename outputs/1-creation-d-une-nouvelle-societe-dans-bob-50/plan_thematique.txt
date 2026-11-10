@@ -1,0 +1,3 @@
+I. Thème : Installation et configuration du logiciel Bob 50 System pour une nouvelle société.
+Section : [00:01 - 10:44]
+Description : L'enregistrement explique comment installer le logiciel Bob 50 System, créer un nouveau dossier, configurer les modules disponibles et importer des données existantes. Le processus est détaillé pour une version School Edition limitée à 2700 lignes d'écriture.

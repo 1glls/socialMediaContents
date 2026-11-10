@@ -1,0 +1,27 @@
+{
+  "source": "1.Création d'une nouvelle société dans Bob 50.mp4",
+  "duration": 659.161,
+  "params": {
+    "min": 300,
+    "target": 480,
+    "max": 1200,
+    "embed_model": "BAAI/bge-m3",
+    "llm": "openai"
+  },
+  "sections": [
+    {
+      "a": 0,
+      "b": 144,
+      "start": 0.82,
+      "end": 643.96,
+      "theme": "Installation et configuration du logiciel Bob 50 System pour une nouvelle société.",
+      "short_title": "Installation Bob 50 System",
+      "description": "L'enregistrement explique comment installer le logiciel Bob 50 System, créer un nouveau dossier, configurer les modules disponibles et importer des données existantes. Le processus est détaillé pour une version School Edition limitée à 2700 lignes d'écriture.",
+      "method": "llm",
+      "part_of": null,
+      "id": 1,
+      "theme_display": "Installation et configuration du logiciel Bob 50 System pour une nouvelle société.",
+      "chapter_title": "Installation Bob 50 System"
+    }
+  ]
+}
